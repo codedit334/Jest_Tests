@@ -1,0 +1,23 @@
+{
+  "name": "jest_tests",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedit334/Jest_Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedit334/Jest_Tests/issues"
+  },
+  "homepage": "https://github.com/codedit334/Jest_Tests#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
